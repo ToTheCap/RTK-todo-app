@@ -1,1 +1,1 @@
-## Simple Todo App for redux toolkit query practice
+## Simple Todo App for Redux Toolkit Query practice
